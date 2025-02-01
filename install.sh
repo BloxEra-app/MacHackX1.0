@@ -69,7 +69,7 @@ main() {
     rm ./RobloxPlayer.zip
     echo -e "Done.\n"
 
-    echo -e "Downloading MacSploit... ⬇️"
+    echo -e "Downloading MacHackX... ⬇️"
     progress_bar
     curl "https://git.raptor.fun/main/macsploit.zip" -o "./MacSploit.zip"
     echo -e "Done.\n"
